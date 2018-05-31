@@ -1,4 +1,4 @@
-### influxdb_mipsel v1.6.0
+### influxdb_mipsle v1.6.0
 InfluxDB time series database for mipsel architecture
 
 
