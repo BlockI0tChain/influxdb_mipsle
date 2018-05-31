@@ -1,5 +1,5 @@
 ### influxdb_mipsle v1.6.0
-InfluxDB time series database for mipsel architecture
+InfluxDB time series database for mipsle architecture
 
 
 Stable test on Onion Omega2 Plus: 
